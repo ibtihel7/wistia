@@ -1,0 +1,269 @@
+
+    
+    .bar{
+
+        display: flex;
+        justify-content: space-between;
+        margin-top: -8px;
+    }
+    .divlogo{
+        width: 4%;
+    }
+    .menu{
+     
+         border: 1px solid ghostwhite; 
+         width: 61%;
+         display: inline-grid;
+         margin-top: 0 
+       
+    }
+    .menu1 {
+        text-decoration-style: none;
+        display: flex;
+        border: 1px solid ghostwhite;   
+        align-items: center;
+        justify-content: flex-start;
+        flex-grow: 1;
+        color: black;
+        text-decoration-color: black;
+    }
+
+    button{
+        height: 50px;
+        width: 200px;
+    }
+    .small-box-one{
+        display: flex;
+        margin-right: 5%;
+        margin-left: 3%;   
+    }
+    
+   
+    .menu2{
+        display: flex;
+        text-decoration-style: none;
+        border: 1px solid whitesmoke;
+      
+        align-items: center;
+        justify-content: flex-start;
+        background-color: ghostwhite;
+        flex-grow: 1 ;
+        color: black ;
+    }
+
+    .small-box-two{
+        display: flex;
+        margin-right: 7%;
+        margin-left: 3%
+    }
+       .acces{
+        display: flex;
+        margin-left: -12%;
+        background-color: white;
+        width: 24%;
+    }
+    .signup {
+        Padding-left: 0%;
+        padding-right: 0%;
+        height: 100%;
+       
+        color: blue;
+        background-color: white;
+    }
+    .Login {
+        Padding-left: 0%;
+        padding-right: 0%;
+        height: 100%;
+        background-color: white;
+    }
+    
+   
+    .section1{
+        background-color: plum ;
+        display : flex ;
+      
+      
+    }
+
+    .titrecontainer{
+        width: 30%;
+        margin: auto
+      
+    }
+
+   .titre {
+        font-display:  bold ;  
+        width: 40%;
+        display:center;
+    }
+
+    .titre h1{
+        inline-size: 150%;
+
+    }
+    .video a{
+        position: relative;
+        width:600px;
+        border: 30px;
+        left: 30%;
+        right: 60%;
+        margin-left: 20px;
+      
+    }
+
+    .watchvideo{
+        background-color: white
+    }
+    /* .menusection1{
+    display: flex;
+    flex-direction: column-reverse
+    } */
+
+    .foot1{
+        display: flex;
+    }
+
+    .signupfoot1{
+        display: flex;
+        background-color: blue;
+     
+    }
+        
+    .menuvideo{
+        display: flex
+    }
+    a:link{
+        text-decoration: none
+    }
+
+   
+    .section2{
+        display: flex;
+        margin-top: -19px;
+
+    }
+    .section2-1{
+        background-color:rgb(254, 210, 74);
+        align-content: space-between;
+        align-items: center;
+        padding:5%
+
+    }
+    .acces-section2-1{
+        background-color:rgb(254, 210, 74)
+    }
+    .section2-2{
+        background-color:#51C29F;
+        align-content: space-between;
+        align-items: center;
+        padding:5%
+
+    }
+
+    .acces-section2-2{
+        background-color:#51C29F;
+    }
+    .section2-3{
+        background-color: #3EA9F5;
+        align-content: space-between;
+        align-items: center;
+        padding:5%
+    }
+    .acces-section2-3{
+        background-color: #3EA9F5;
+    }
+    .main-section3{
+        display: flex;
+        flex-grow: 1;
+    }
+    .logosection3{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .image1section3 p ,.image2section3 p,.image3section3 p{
+        width: 80%
+    }
+   
+    .titre-footer{
+        display: flex
+    }
+    
+    footer{
+        background: #2A2D35;
+    }
+    .mainfooter{
+        display: flex;
+        background:#2A2D35;
+        justify-content: center;
+        /* text-decoration: none; */
+        margin-top: -19px;
+
+    }
+    .paragfooter{
+        align-items: stretch;
+        background:#2A2D35;
+        color: white;
+        padding-right: 10%;
+    }
+    .menufooter{
+        display: flex ;
+        background:#2A2D35;
+        color: gray ;
+        text-decoration: none;
+        margin-top: 3%;
+        margin-right: 12%;
+        font-size: 18px;
+    }
+
+    span{
+        color: white;
+    }
+
+
+    .footer-section3{
+        
+        color: #363945;
+        font-size: 18px;
+        background-color: #EFEFEF;
+        padding: 25px 40px;
+        text-align: center;     
+    }
+
+
+    .TermsofService{
+        color: #5B6B7F;
+    }
+    .copyright{
+        color: gray;
+        padding-bottom: 2%;
+        padding-top: 2%;
+
+    }
+    .follow{
+        color:#3EA9F5;
+    }
+    .link résaux{
+        
+        background:#3e3a3a;
+    }
+    ul{
+        list-style-type: none;
+    }
+
+    .logo-texte-section3{
+        height: 50px;
+        width: 120px;
+    }
+    .video{
+        margin-right: 20px;
+        margin-left: 5px
+    }
+
+    ul{
+        display: inline-grid;
+    }
+
+    li{ 
+        display: list-item;
+    }
